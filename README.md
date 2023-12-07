@@ -12,7 +12,7 @@ Step 1: Click the PixelAdventure-Release2.0 and open it.
 
 Step 2: Click the name "Pixel Adventure" and open it.
 
-Step 3: Enjoy your game
+Step 3: Enjoy your game and not need to playing whole game level.
 
 Step 4: Finish the game and “shift + click” below link for give the user testing feedback
 Questionnaire of User Testing Gaming System
